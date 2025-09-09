@@ -1,0 +1,7 @@
+{
+    "sketch": "5.1SoundAmplifierController-v3.3\\5.1SoundAmplifierController-v3.3.ino",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "programmer": "avrisp",
+    "port": "COM4"
+}
